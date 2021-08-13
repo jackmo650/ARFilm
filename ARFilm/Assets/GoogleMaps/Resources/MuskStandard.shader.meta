@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2fbd16d50e424fb4b36edfff38eed09
+labels:
+- gvh
+- gvh_version-0.0.0
+- gvhp_exportpath-GoogleMaps/Resources/MuskStandard.shader
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: db17334dfe5991a4bbe241ee9a728c38, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

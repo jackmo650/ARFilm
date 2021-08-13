@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad4cbc92cd42940b2bcfb6c29f748272
+labels:
+- gvh
+- gvh_version-0.0.0
+- gvhp_exportpath-GoogleMaps/Resources/BaseMapColorUnlit.shader
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
